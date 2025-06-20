@@ -15,8 +15,8 @@ Kişisel gelişim, alışkanlık takibi ve hedef odaklı ilerleme için hazırla
 Aşağıda uygulamanın bazı ekran görüntülerini bulabilirsiniz. Kendi ekran görüntülerinizi `screenshots/` klasörüne ekleyip, aşağıdaki gibi gösterim sağlayabilirsiniz:
 
 ```markdown
-![Ana Ekran](screenshots/app_main.png)
-![Challenge Ekle](screenshots/add_challenge.png)
+![Ana Ekran](screenshots/Screenshots_1.png)
+![Challenge Ekle](screenshots/Screenshots_2.png)
 ```
 
 Örnek:
