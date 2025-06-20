@@ -14,15 +14,13 @@ Kişisel gelişim, alışkanlık takibi ve hedef odaklı ilerleme için hazırla
 
 Aşağıda uygulamanın bazı ekran görüntülerini bulabilirsiniz. Kendi ekran görüntülerinizi `screenshots/` klasörüne ekleyip, aşağıdaki gibi gösterim sağlayabilirsiniz:
 
-```markdown
-![Ana Ekran](screenshots/Screenshots_1.png)
-![Challenge Ekle](screenshots/Screenshots_2.png)
-```
 
-Örnek:
+![Ana Ekran](screenshots/Screenshot_1.png)
+![Challenge Ekle](screenshots/Screenshot_2.png)
 
-![Ana Ekran](screenshots/app_main.png)
 
+![Challenge Detay](screenshots/Screenshot_3.png)
+![Aylık Rapır](screenshots/Screenshot_4.png)
 ## Ekranlar
 
 - **Challenge Listesi:** Tüm challenge'larınızı ve ilerlemenizi görün, detaylara geçiş yapın.
@@ -38,7 +36,7 @@ Aşağıda uygulamanın bazı ekran görüntülerini bulabilirsiniz. Kendi ekran
 
 ### 2. Projeyi Klonla
 ```sh
-git clone <repo-url>
+git clone <https://github.com/mucahit-topcuoglu/todoApp-Flutter/>
 cd challenge
 ```
 
