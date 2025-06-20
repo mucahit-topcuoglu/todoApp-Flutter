@@ -12,7 +12,6 @@ Kişisel gelişim, alışkanlık takibi ve hedef odaklı ilerleme için hazırla
 
 ## Ekran Görüntüleri
 
-Aşağıda uygulamanın bazı ekran görüntülerini bulabilirsiniz. Kendi ekran görüntülerinizi `screenshots/` klasörüne ekleyip, aşağıdaki gibi gösterim sağlayabilirsiniz:
 
 
 ![Ana Ekran](ToDoApp/screenshots/Screenshot_1.png)
