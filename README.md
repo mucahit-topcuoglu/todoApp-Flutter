@@ -15,12 +15,12 @@ Kişisel gelişim, alışkanlık takibi ve hedef odaklı ilerleme için hazırla
 Aşağıda uygulamanın bazı ekran görüntülerini bulabilirsiniz. Kendi ekran görüntülerinizi `screenshots/` klasörüne ekleyip, aşağıdaki gibi gösterim sağlayabilirsiniz:
 
 
-![Ana Ekran](screenshots/Screenshot_1.png)
-![Challenge Ekle](screenshots/Screenshot_2.png)
+![Ana Ekran](ToDoApp/screenshots/Screenshot_1.png)
+![Challenge Ekle](ToDoApp/screenshots/Screenshot_2.png)
 
 
-![Challenge Detay](screenshots/Screenshot_3.png)
-![Aylık Rapır](screenshots/Screenshot_4.png)
+![Challenge Detay](ToDoApp/screenshots/Screenshot_3.png)
+![Aylık Rapır](ToDoApp/screenshots/Screenshot_4.png)
 ## Ekranlar
 
 - **Challenge Listesi:** Tüm challenge'larınızı ve ilerlemenizi görün, detaylara geçiş yapın.
