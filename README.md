@@ -35,7 +35,7 @@ Kişisel gelişim, alışkanlık takibi ve hedef odaklı ilerleme için hazırla
 
 ### 2. Projeyi Klonla
 ```sh
-git clone <https://github.com/mucahit-topcuoglu/todoApp-Flutter/>
+git clone https://github.com/mucahit-topcuoglu/todoApp-Flutter/
 cd challenge
 ```
 
